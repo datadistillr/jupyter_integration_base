@@ -1,5 +1,5 @@
 adagio==0.2.3
-aiohttp==3.7.4.post0
+aiohttp==3.8.5
 antlr4-python3-runtime==4.8
 anyio==3.3.4
 appdirs==1.4.4
